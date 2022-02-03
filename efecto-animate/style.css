@@ -1,0 +1,21 @@
+#gato{
+    margin-left: 900px; 
+    height: 300px;
+    width: 300px;
+}
+
+p{
+    margin-left: 1100px;
+    display: none;
+}
+
+#imagen{
+    margin-right: 500px; 
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+#parrafoFondo{
+    margin-left: 700px;
+}
